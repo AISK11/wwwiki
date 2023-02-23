@@ -1,0 +1,12 @@
+## Dokuwiki backup files (https://www.dokuwiki.org/faq:backup).
+/frontend/dokuwiki/*
+!/frontend/dokuwiki/conf/
+!/frontend/dokuwiki/lib/
+!/frontend/dokuwiki/data/
+/frontend/dokuwiki/data/*
+!/frontend/dokuwiki/data/pages/
+!/frontend/dokuwiki/data/attic/
+!/frontend/dokuwiki/data/meta/
+!/frontend/dokuwiki/data/media/
+!/frontend/dokuwiki/data/media_attic/
+!/frontend/dokuwiki/data/media_meta/
