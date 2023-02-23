@@ -1,16 +1,12 @@
 ## https://www.dokuwiki.org/faq:backup
 /web/dokuwiki/*
-!/web/dokuwiki/data/pages/
-!/web/dokuwiki/data/pages/**
-!/web/dokuwiki/data/attic/
-!/web/dokuwiki/data/attic/**
-!/web/dokuwiki/data/meta/
-!/web/dokuwiki/data/meta/**
-!/web/dokuwiki/data/media/
-!/web/dokuwiki/data/media/**
-!/web/dokuwiki/data/media_attic/
-!/web/dokuwiki/data/media_attic/**
-!/web/dokuwiki/data/media_meta/
-!/web/dokuwiki/data/media_meta/**
 !/web/dokuwiki/conf/
 !/web/dokuwiki/lib/
+!/web/dokuwiki/data/
+/web/dokuwiki/data/*
+!/web/dokuwiki/data/pages/
+!/web/dokuwiki/data/attic/
+!/web/dokuwiki/data/meta/
+!/web/dokuwiki/data/media/
+!/web/dokuwiki/data/media_attic/
+!/web/dokuwiki/data/media_meta/
