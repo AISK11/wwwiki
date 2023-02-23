@@ -14,4 +14,3 @@ web/dokuwiki/*
 !web/dokuwiki/data/media_meta/**
 !web/dokuwiki/conf
 !web/dokuwiki/lib
-testfile
