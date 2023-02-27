@@ -14,7 +14,7 @@ root@debian# apt install -y git rsync nginx php-fpm php-xml
 
 2. Download  and install DokuWiki:
 
-    - navigate to [DokuWiki Download](https://download.dokuwiki.org/) page.
+    - Navigate to [DokuWiki Download](https://download.dokuwiki.org/) page.
     - Toggle all languages and click Download.
     - Extract DokuWiki to the webserver:
 
