@@ -43,14 +43,14 @@ root@debian# rsync -av --delete ./wwwiki/frontend/dokuwiki/data/media_meta/ /var
 root@debian# chown -R www-data:www-data /var/www/dokuwiki/
 ```
 
-5. Enable and start webserver services:
+5. Enable and restart webserver services:
 
 ```console
 root@debian# PHP_VERSION=$(php -v | cut -d ' ' -f 2 | grep -Eo '[0-9]*\.[0-9]*' | head -n 1)
 root@debian# systemctl enable "php${PHP_VERSION}-fpm.service"
-root@debian# systemctl start "php${PHP_VERSION}-fpm.service"
+root@debian# systemctl restart "php${PHP_VERSION}-fpm.service"
 root@debian# systemctl enable "nginx.service"
-root@debian# systemctl start "nginx.service"
+root@debian# systemctl restart "nginx.service"
 ```
 
 6. Navigate to [http://localhost](http://localhost) and login as admin:admin.
