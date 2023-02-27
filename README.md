@@ -9,7 +9,7 @@
 1. Install dependency packages:
 
 ```console
-root@debian# apt install git rsync nginx php-fpm php-xml
+root@debian# apt install -y git rsync nginx php-fpm php-xml
 ```
 
 2. Download  and install DokuWiki:
