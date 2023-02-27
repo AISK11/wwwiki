@@ -1,0 +1,34 @@
+cli Plugin for DokuWiki
+
+This plugin brings a Command Line Interface formatter to Dokuwiki allowing you to format the output of a transcript say for a user manual or on-line tutorial. It is designed to work with the output of a standard Unix Bash Shell, but should be suitable to document other kinds of CLI interaction, e.g. Windows Command Window, Python and Ruby, Matlab, etc.
+
+
+All documentation for this plugin can be found at
+https://www.dokuwiki.org/plugin:cli
+
+Development, bug report, feature request happen at
+https://github.com/schplurtz/dokuwiki-plugin-cli
+
+If you install this plugin manually, make sure it is installed in
+lib/plugins/cli/ - if the folder is called different it
+will not work!
+
+Please refer to https://www.dokuwiki.org/plugins for additional info
+on how to install plugins in DokuWiki.
+
+----
+Copyright (C) Chris P. Jobling <C.P.Jobling@Swansea.ac.uk>
+Copyright (C) Stephan Chazelas <stephane.chazelas@emerson.com>
+Copyright (C) Andy Webber <dokuwiki@andywebber.com>
+Copyright (C) Schplurtz le Déboulonné <Schplurtz@laposte.net>
+
+This program is free software; you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation; version 2 of the License
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+See the COPYING file in your DokuWiki folder for details
