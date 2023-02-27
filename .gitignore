@@ -1,4 +1,5 @@
 ## Dokuwiki backup files (https://www.dokuwiki.org/faq:backup).
+/tmp/*
 /frontend/dokuwiki/*
 !/frontend/dokuwiki/conf/
 !/frontend/dokuwiki/lib/
