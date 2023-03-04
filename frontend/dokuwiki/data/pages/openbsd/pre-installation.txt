@@ -1,0 +1,43 @@
+====== Pre-Installation ======
+
+//- pre-installation of OpenBSD on amd64 platform from Linux-based operating system.//
+
+===== System Requirements =====
+
+^ Hardware             ^ Value          ^
+| Motherboard firmware | UEFI           |
+| CPU architecture     | amd64 (x86_64) |
+| RAM memory           | ? GB           |
+| Storage space        | ? GB           |
+
+===== Download =====
+
+  -Choose [[https://www.openbsd.org/ftp.html|OpenBSD mirror]]
+  -Download public key, checksum and disk image files:
+    */X.Y/openbsd-XY-base.pub
+    */X.Y/amd64/SHA256.sig
+    */X.Y/amd64/installXY.img
+  -Verify authenticity and  integrity of the disk image:<cli>
+$ signify -C -p <openbsd-XY-base.pub> -x <SHA256.sig> <installXY.img>
+</cli>
+
+===== Prepare Installation Media =====
+
+==== USB ====
+
+  -Make sure the USB filesystem is **not** mounted!
+  -Optionally check USB for bad blocks:<cli>
+# badblocks -nsv -t 0x01 </dev/sdX>
+</cli>
+  -Flash USB with disk image:<cli>
+# dd if=<installXY.img> of=</dev/sdX> status=progress
+# sync
+</cli>
+
+===== Boot From Installation Media =====
+
+==== USB ====
+
+  -Reboot the system and during the POST phase press //BIOS key//((List of //POST keys// according to vendor: https://www.disk-image.com/faq-bootmenu.htm.)) to boot into UEFI.
+  -Make sure that Secure Boot is disabled((Disable secure boot: https://www.rodsbooks.com/efi-bootloaders/secureboot.html#disable.)) and reboot.
+  -On the next POST phase, press //Boot Menu key//((List of //POST keys// according to vendor: https://www.disk-image.com/faq-bootmenu.htm.)) and select //(UEFI) USB// entry.

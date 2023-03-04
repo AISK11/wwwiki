@@ -1,0 +1,43 @@
+1677694085	192.168.0.126	C	index	admin	created		52
+1677694183	192.168.0.126	C	sidebar	admin	created		72
+1677867297	192.168.0.138	E	sidebar	admin			40
+1677883368	192.168.0.138	C	openbsd:sidebar	admin	created		62
+1677883429	192.168.0.138	E	sidebar	admin			12
+1677883445	192.168.0.138	E	openbsd:sidebar	admin			12
+1677883818	192.168.0.138	C	openbsd:index	admin	created		202
+1677884875	192.168.0.138	E	openbsd:index	admin			160
+1677884958	192.168.0.138	E	openbsd:index	admin			91
+1677884987	192.168.0.138	E	openbsd:index	admin			57
+1677885006	192.168.0.138	E	openbsd:index	admin			29
+1677885631	192.168.0.138	E	openbsd:index	admin			223
+1677885797	192.168.0.138	E	openbsd:index	admin			200
+1677885818	192.168.0.138	E	openbsd:index	admin			1
+1677928736	192.168.0.138	E	openbsd:index	admin			1
+1677928752	192.168.0.138	E	openbsd:index	admin			-2
+1677929422	192.168.0.138	E	openbsd:sidebar	admin			76
+1677929440	192.168.0.138	E	openbsd:sidebar	admin			42
+1677929586	192.168.0.138	E	openbsd:index	admin			57
+1677932760	192.168.0.138	E	openbsd:index	admin			54
+1677940478	192.168.0.138	E	openbsd:index	admin			1
+1677940959	192.168.0.138	E	openbsd:index	admin			11
+1677941592	192.168.0.138	E	openbsd:index	admin			2
+1677958004	192.168.0.138	C	openbsd:pre-installation	admin	created		52
+1677959189	192.168.0.138	E	openbsd:index	admin			5
+1677959244	192.168.0.138	E	openbsd:index	admin			1
+1677959287	192.168.0.138	E	openbsd:pre-installation	admin			76
+1677959330	192.168.0.138	E	openbsd:pre-installation	admin			87
+1677959363	192.168.0.138	E	openbsd:pre-installation	admin			9
+1677963458	192.168.0.138	E	openbsd:pre-installation	admin			50
+1677964844	192.168.0.138	E	openbsd:pre-installation	admin			218
+1677966177	192.168.0.138	E	openbsd:pre-installation	admin			136
+1677967053	192.168.0.138	E	openbsd:pre-installation	admin			1039
+1677967083	192.168.0.138	E	openbsd:pre-installation	admin			0
+1677967123	192.168.0.138	E	openbsd:pre-installation	admin			-42
+1677967280	192.168.0.138	E	openbsd:pre-installation	admin			0
+1677967322	192.168.0.138	E	openbsd:pre-installation	admin			2
+1677968225	192.168.0.138	E	openbsd:pre-installation	admin			91
+1677969142	192.168.0.138	E	openbsd:pre-installation	admin			-50
+1677969305	192.168.0.138	E	openbsd:pre-installation	admin			0
+1677969836	192.168.0.138	C	openbsd:installation	admin	created		124
+1677969842	192.168.0.138	E	openbsd:pre-installation	admin			-87
+1677970688	192.168.0.138	E	openbsd:index	admin			68

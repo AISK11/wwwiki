@@ -1,0 +1,16 @@
+====== OpenBSD ======
+
+//- free, multi-platform, BSD-based UNIX-like operating system focused on portability, standardization, correctness and security developed by volunteers.//
+
+===== Pros =====
+
+  *Free and open-source((OpenBSD license: https://www.openbsd.org/policy.html.))((OpenBSD source code (CVS): https://cvsweb.openbsd.org/cgi-bin/cvsweb/.))((OpenBSD source code (GitHub): https://github.com/openbsd.)).
+  *Security-focused((OpenBSD security policy: https://www.openbsd.org/security.html.))((OpenBSD CVEs: https://www.cvedetails.com/vendor/97/Openbsd.html.)).
+  *Multi-platform((OpenBSD supported platforms: https://www.openbsd.org/plat.html.)).
+  *Well-documented((OpenBSD FAQ guide: https://www.openbsd.org/faq/index.html.))((OpenBSD man pages: https://man.openbsd.org/.))((OpenBSD books: https://www.openbsd.org/books.html.)).
+  *UNIX-like((List of UNIX-like operating systems: https://en.wikipedia.org/wiki/Unix-like.)).
+
+===== Cons =====
+
+  *Point-release((OpenBSD versions: https://www.openbsd.org/plus.html.)).
+  *Small community and amount of packages((OpenBSD (snapshots) packages: https://cdn.openbsd.org/pub/OpenBSD/snapshots/packages/.)).

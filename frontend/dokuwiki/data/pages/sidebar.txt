@@ -1,0 +1,11 @@
+====== Wiki ======
+
+----
+
+**Operating Systems**
+  *[[:openbsd:index|OpenBSD]]
+
+**Programming**
+  *[[:rust:index|Rust]]
+
+----

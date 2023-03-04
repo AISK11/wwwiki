@@ -1,0 +1,12 @@
+====== OpenBSD ======
+
+----
+
+**About**
+  *[[:openbsd:index|OpenBSD]]
+
+**Installation (amd64)**
+  *[[:openbsd:pre-installation|Pre-Installation]]
+  *[[:openbsd:installation|Installation]]
+
+----
