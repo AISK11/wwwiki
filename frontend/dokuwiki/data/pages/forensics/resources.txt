@@ -1,0 +1,14 @@
+====== Resources ======
+
+//- ?.//
+
+<WRAP center round important 60%>
+This section is currently work in progress!
+</WRAP>
+
+  *Forensics tools: https://toolcatalog.nist.gov/search/index.php https://www.forensics-matters.com/2020/10/20/simple-forensics-imaging-with-dd-dc3dd-dcfldd/ https://www.kali.org/tools/kali-meta/#kali-tools-forensics
+
+  *PDF:
+    *https://en.wikipedia.org/wiki/PDF
+    *https://github.com/filipi86/MalwareAnalysis-in-PDF
+    *https://github.com/jonaslejon/malicious-pdf

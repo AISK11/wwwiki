@@ -1,43 +1,79 @@
-1677694085	192.168.0.126	C	index	admin	created		52
-1677694183	192.168.0.126	C	sidebar	admin	created		72
-1677867297	192.168.0.138	E	sidebar	admin			40
-1677883368	192.168.0.138	C	openbsd:sidebar	admin	created		62
-1677883429	192.168.0.138	E	sidebar	admin			12
-1677883445	192.168.0.138	E	openbsd:sidebar	admin			12
-1677883818	192.168.0.138	C	openbsd:index	admin	created		202
-1677884875	192.168.0.138	E	openbsd:index	admin			160
-1677884958	192.168.0.138	E	openbsd:index	admin			91
-1677884987	192.168.0.138	E	openbsd:index	admin			57
-1677885006	192.168.0.138	E	openbsd:index	admin			29
-1677885631	192.168.0.138	E	openbsd:index	admin			223
-1677885797	192.168.0.138	E	openbsd:index	admin			200
-1677885818	192.168.0.138	E	openbsd:index	admin			1
-1677928736	192.168.0.138	E	openbsd:index	admin			1
-1677928752	192.168.0.138	E	openbsd:index	admin			-2
-1677929422	192.168.0.138	E	openbsd:sidebar	admin			76
-1677929440	192.168.0.138	E	openbsd:sidebar	admin			42
-1677929586	192.168.0.138	E	openbsd:index	admin			57
-1677932760	192.168.0.138	E	openbsd:index	admin			54
-1677940478	192.168.0.138	E	openbsd:index	admin			1
-1677940959	192.168.0.138	E	openbsd:index	admin			11
-1677941592	192.168.0.138	E	openbsd:index	admin			2
-1677958004	192.168.0.138	C	openbsd:pre-installation	admin	created		52
-1677959189	192.168.0.138	E	openbsd:index	admin			5
-1677959244	192.168.0.138	E	openbsd:index	admin			1
-1677959287	192.168.0.138	E	openbsd:pre-installation	admin			76
-1677959330	192.168.0.138	E	openbsd:pre-installation	admin			87
-1677959363	192.168.0.138	E	openbsd:pre-installation	admin			9
-1677963458	192.168.0.138	E	openbsd:pre-installation	admin			50
-1677964844	192.168.0.138	E	openbsd:pre-installation	admin			218
-1677966177	192.168.0.138	E	openbsd:pre-installation	admin			136
-1677967053	192.168.0.138	E	openbsd:pre-installation	admin			1039
-1677967083	192.168.0.138	E	openbsd:pre-installation	admin			0
-1677967123	192.168.0.138	E	openbsd:pre-installation	admin			-42
-1677967280	192.168.0.138	E	openbsd:pre-installation	admin			0
-1677967322	192.168.0.138	E	openbsd:pre-installation	admin			2
-1677968225	192.168.0.138	E	openbsd:pre-installation	admin			91
-1677969142	192.168.0.138	E	openbsd:pre-installation	admin			-50
-1677969305	192.168.0.138	E	openbsd:pre-installation	admin			0
-1677969836	192.168.0.138	C	openbsd:installation	admin	created		124
-1677969842	192.168.0.138	E	openbsd:pre-installation	admin			-87
-1677970688	192.168.0.138	E	openbsd:index	admin			68
+1678038599	192.168.0.138	E	openbsd:installation	admin			41
+1678041460	192.168.0.138	E	openbsd:sidebar	admin			61
+1678044953	192.168.0.138	E	sidebar	admin			8
+1678046253	192.168.0.138	C	assembly:index	admin	created		254
+1678046275	192.168.0.138	C	assembly:sidebar	admin	created		76
+1678046281	192.168.0.138	E	assembly:sidebar	admin			1
+1678046336	192.168.0.138	E	assembly:index	admin			32
+1678047526	192.168.0.126	E	assembly:index	admin			31
+1678047638	192.168.0.126	E	assembly:index	admin			30
+1678048965	192.168.0.126	E	sidebar	admin			73
+1678049013	192.168.0.126	C	reverse_engineering:sidebar	admin	created		110
+1678049034	192.168.0.126	C	reverse_engineering:index	admin	created		42
+1678049056	192.168.0.126	E	reverse_engineering:sidebar	admin			47
+1678049096	192.168.0.126	E	sidebar	admin			-20
+1678049103	192.168.0.126	D	reverse_engineering:index	admin	removed		-42
+1678049115	192.168.0.126	C	forensics:index	admin	created		32
+1678049124	192.168.0.126	D	reverse_engineering:sidebar	admin	removed		-157
+1678049140	192.168.0.126	C	forensics:sidebar	admin	created		127
+1678049198	192.168.0.126	C	forensics:pdf	admin	created		50
+1678049220	192.168.0.126	E	forensics:index	admin			88
+1678049225	192.168.0.126	E	forensics:index	admin			-1
+1678049235	192.168.0.126	E	forensics:pdf	admin			87
+1678051791	192.168.0.126	E	forensics:pdf	admin			103
+1678051804	192.168.0.126	E	forensics:pdf	admin			36
+1678052001	192.168.0.126	E	forensics:sidebar	admin			31
+1678052026	192.168.0.126	E	forensics:sidebar	admin			-10
+1678100031	192.168.0.126	E	forensics:index	admin			217
+1678100048	192.168.0.126	E	forensics:index	admin			9
+1678112105	192.168.0.126	E	forensics:index	admin			67
+1678113330	192.168.0.126	E	forensics:index	admin			167
+1678113595	192.168.0.126	E	forensics:index	admin			-66
+1678114981	192.168.0.126	E	forensics:index	admin			36
+1678115906	192.168.0.126	E	forensics:index	admin			0
+1678116000	192.168.0.126	E	forensics:index	admin			25
+1678116024	192.168.0.126	E	forensics:index	admin			9
+1678116075	192.168.0.126	E	forensics:index	admin			13
+1678381385	192.168.0.138	E	openbsd:installation	admin			881
+1678382122	192.168.0.138	E	openbsd:installation	admin			507
+1678382261	192.168.0.138	E	openbsd:installation	admin			116
+1678382302	192.168.0.138	C	openbsd:system_update	admin	created		463
+1678382335	192.168.0.138	E	openbsd:system_update	admin			110
+1678382410	192.168.0.138	E	openbsd:installation	admin			53
+1678382565	192.168.0.138	E	openbsd:installation	admin			49
+1678382675	192.168.0.138	E	openbsd:system_update	admin			23
+1678455897	192.168.0.138	E	forensics:index	admin			29
+1678456248	192.168.0.138	E	forensics:index	admin			-6
+1678456350	192.168.0.138	E	forensics:index	admin			5
+1678457591	192.168.0.138	E	forensics:index	admin			-1
+1678457662	192.168.0.138	E	forensics:index	admin			-1
+1678462961	192.168.0.138	E	forensics:index	admin			86
+1678465177	192.168.0.126	E	forensics:index	admin			77
+1678465452	192.168.0.126	E	forensics:index	admin			30
+1678465610	192.168.0.126	E	forensics:index	admin			-2
+1678465703	192.168.0.126	E	forensics:index	admin			16
+1678631988	192.168.0.138	E	forensics:index	admin			-1
+1678632033	192.168.0.138	E	forensics:index	admin			3
+1678632206	192.168.0.138	E	forensics:index	admin			-3
+1678632248	192.168.0.138	E	forensics:index	admin			0
+1678632348	192.168.0.138	E	forensics:index	admin			17
+1678632441	192.168.0.138	E	forensics:index	admin			14
+1678632465	192.168.0.138	E	forensics:index	admin			10
+1678632476	192.168.0.138	E	forensics:index	admin			-10
+1678632500	192.168.0.138	E	forensics:index	admin			-28
+1678632545	192.168.0.138	E	forensics:index	admin			-2
+1678632590	192.168.0.138	E	forensics:index	admin			11
+1678632603	192.168.0.138	E	forensics:index	admin			4
+1678636347	192.168.0.126	E	forensics:index	admin			-21
+1678653600	192.168.0.126	E	forensics:index	admin			230
+1678654064	192.168.0.126	E	forensics:index	admin			421
+1678654204	192.168.0.126	E	forensics:index	admin			119
+1678655806	192.168.0.126	E	forensics:index	admin			92
+1678656378	192.168.0.126	E	forensics:index	admin			59
+1678656460	192.168.0.126	E	forensics:sidebar	admin			38
+1678656493	192.168.0.126	C	forensics:resources	admin	created		338
+1678656503	192.168.0.126	E	forensics:index	admin			-307
+1678656694	192.168.0.126	E	forensics:resources	admin			153
+1678656699	192.168.0.126	D	forensics:pdf	admin	removed		-276
+1678656707	192.168.0.126	E	forensics:sidebar	admin			-26
+1678656748	192.168.0.126	E	forensics:sidebar	admin			23

@@ -1,8 +1,37 @@
 ====== Installation ======
 
-//- .//
+//- installation of OpenBSD on amd64 platform.//
 
 <WRAP center round important 60%>
 This section is currently work in progress!
 </WRAP>
 
+  -?<cli>
+(I)nstall, (U)pgrade, (A)utoinstall or (S)hell?> i
+Choose your keyboard layout ('?' or 'L' for list) [default]> (Enter)
+System hostname? (short form, e.g. 'foo')> <HOSTNAME>
+Which network interface do you wish to configure? (or 'done') [em0]> (Enter)
+IPv4 address for em0? (or 'autoconf' or 'none') [autoconf]> (Enter)
+IPv6 address for em0? (or 'autoconf' or 'none') [none]> (Enter)
+Which network interface do you wish to configure? (or 'done} [done]> (Enter)
+Password for root account? (will not echo)> <NEW-ROOT-PASSWORD>
+Password for root account? (again)> <NEW-ROOT-PASSWORD (CONFIRM)>
+Start sshd(8) by default? [yes]> no
+Do you expect to run the X Window System? [yes]> no
+Setup a user? (enter a lower-case loginname, or 'no') [no]> (Enter)
+What timezone are you in? ('?' for list} [Europe/Bratislava]> (Enter)
+Which disk is the root disk? ('?' for details) [wd0]> (Enter)
+Use (W)hole disk MBR, whole disk (G)PT or (E)dit? [whole]> (Enter)
+Use (A)uto layout, (E)dit auto layout, or create (C)ustom layout? [a]> (Enter)
+Location of sets? (cd0 disk http nfs or 'done') [cd0]> (Enter)
+Pathname to the sets? (or) 'done) [7.2/amd64]> (Enter)
+Set name(s)? (or 'abort' or 'done') [done]> -x*
+Set name(s)? (or 'abort' or 'done') [done]> -g*
+Set name(s)? (or 'abort' or 'done') [done]> (Enter)
+Directory doesn ot contain SHA256.sig. Continue without verification? [no]> yes
+Location of sets? (cd0 disk http nfs or 'done') [done]> (Enter)
+Time appears wrong. Set to '<DATA>'? [yes]> (Enter)
+Exit to (S)hell, (H)alt or (R)eboot? [reboot]> h
+</cli>
+  -Remove installation media.
+  -Turn on the computer.

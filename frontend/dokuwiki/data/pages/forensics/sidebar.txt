@@ -1,0 +1,17 @@
+====== Forensics ======
+
+----
+
+**About**
+  *[[:forensics:index|Forensics]]
+  *[[:forensics:resources|Resources]]
+
+**Hardware**
+
+**Filesystems**
+
+**Operating Systems**
+
+**Files**
+
+----

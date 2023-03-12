@@ -1,0 +1,31 @@
+====== Forensics ======
+
+//- preservation, collection, validation, identification, analysis, interpretation, documentation and presentation of digital evidence derived from digital sources.//
+
+===== Process =====
+
+  -**Identification:** identification of an event/incident/crime (i.e. alert, complaint).
+  -**Collection:** data acquisition/extraction according to order of volatility from data sources.
+  -**Examination:** preparation of collected data and potential digital evidence.
+  -**Analysis:** digital evidence information processing/evaluation to determine facts about the crime.
+  -**Presentation:** presentation of investigation results via document report.
+
+===== Roles =====
+
+  -**First responder:**
+    -Initiation of digital investigation.
+    -Identification and securing digital evidence.
+    -Identifying digital investigation procedures to follow.
+  -**Digital forensics specialist:**
+    -Identification and collection of digital evidence according to forensic principles.
+    -Responsible for live forensics.
+  -**Digital forensics analyst/examiner:**
+    -Analysis of different types of digital evidence.
+    -Reporting results.
+  -**Digital forensic investigator/lead investigator:**
+    -Investigation directing.
+    -Activity coordination.
+    -Interpretation of findings.
+    -Reporting results.
+  -**Data retention specialist:**
+    -Preservation of digital evidence according to retention policy/requirements.

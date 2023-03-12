@@ -1,0 +1,24 @@
+====== System Update ======
+
+//- ?.//
+
+<WRAP center round important 60%>
+This section is currently work in progress!
+</WRAP>
+
+  -Upgrade to newer release version if available((Releases: https://www.openbsd.org/plus.html.)):<cli>
+# sysupgrade
+</cli>
+  -Apply all missing system patches((Errata: https://www.openbsd.org/errata.html.)):<cli>
+# syspatch
+</cli>
+  -Update proprietary firmware:<cli>
+# fw_update -v
+</cli>
+  -Update all packages((Packages: https://openports.se/statistics.php.)):<cli>
+# pkg_add -Uu
+</cli>
+  -Update configuration files:<cli>
+# sysmerge -d
+</cli>
+  -Is reboot necessary?

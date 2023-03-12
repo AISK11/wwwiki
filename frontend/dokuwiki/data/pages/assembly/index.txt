@@ -1,0 +1,11 @@
+====== Assembly ======
+
+//- low-level programming language.//
+
+<WRAP center round important 60%>
+This section is currently work in progress!
+</WRAP>
+
+  *Instruction sets: https://en.wikipedia.org/wiki/Comparison_of_instruction_set_architectures
+  *Assemblers: https://en.wikipedia.org/wiki/Comparison_of_assemblers
+  *Assembly flavors (intel/at&t)

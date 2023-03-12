@@ -9,4 +9,7 @@
   *[[:openbsd:pre-installation|Pre-Installation]]
   *[[:openbsd:installation|Installation]]
 
+**Maintenance**
+  *[[:openbsd:system_update|System Update]]
+
 ----

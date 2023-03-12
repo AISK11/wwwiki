@@ -5,7 +5,10 @@
 **Operating Systems**
   *[[:openbsd:index|OpenBSD]]
 
+**Cybersecurity**
+  *[[:forensics:index|Forensics]]
+
 **Programming**
-  *[[:rust:index|Rust]]
+  *[[:assembly:index|Assembly]]
 
 ----
